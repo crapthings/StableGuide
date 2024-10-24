@@ -9,6 +9,10 @@
 * https://github.com/TheLastBen/fast-stable-diffusion
 * https://github.com/huggingface/diffusers/tree/main/examples
 
+## Cropper
+
+* https://www.birme.net
+
 ## FAQ
 
 #### Should i cropped my dataset first？
